@@ -3,7 +3,6 @@
 # Umar Farooq - Software Engineer
 
 ## Contact Information
-- **Phone:** +92-3076812037
 - **Email:** umar.dev4973@gmail.com
 - **GitHub:** [github.com/umar3990](https://github.com/umar3990)
 - **LinkedIn:** [linkedin.com/in/umar-rails-dev](https://linkedin.com/in/umar-rails-dev)
